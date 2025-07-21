@@ -1,0 +1,3 @@
+variable "reponame" {
+    default = "reponame"
+}
