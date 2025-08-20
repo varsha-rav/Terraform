@@ -1,4 +1,4 @@
-A sample repository to create EKS on AWS using Terraform.
+A sample repository to create EKS cluster on AWS using Terraform.
 
 This repository contains the Terraform configurations required to create a self managed EKS cluster. 
 
