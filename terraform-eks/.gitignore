@@ -9,6 +9,8 @@
 crash.log
 crash.*.log
 
+#lock file
+.terraform.lock.hcl
 
 #terraform plan files
 *.tfplan
